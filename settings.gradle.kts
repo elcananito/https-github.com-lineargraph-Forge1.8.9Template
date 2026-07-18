@@ -23,4 +23,4 @@ plugins {
 }
 
 
-rootProject.name = "examplemod"
+rootProject.name = "https-github.com-lineargraph-Forge1.8.9Template"
